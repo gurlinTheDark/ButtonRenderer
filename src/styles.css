@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.primary{
+  background: blue;
+}
+.warning{
+  background: orange;
+}
+.danger{
+  background: red;
+}
